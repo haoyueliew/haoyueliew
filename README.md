@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-banner.svg" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
 <p align="center">
