@@ -4,35 +4,15 @@
 
   <rect width="760" height="220" rx="16" fill="#0d1117"/>
 
-  <circle cx="90" cy="55" r="34" fill="#5DCAA5" opacity="0.55">
-    <animate attributeName="cx" values="90;115;90" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="55;35;55" dur="9s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="220" cy="150" r="26" fill="#7F77DD" opacity="0.55">
-    <animate attributeName="cx" values="220;195;220" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="150;175;150" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="360" cy="45" r="20" fill="#F0997B" opacity="0.55">
-    <animate attributeName="cx" values="360;385;360" dur="11s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="45;65;45" dur="11s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="520" cy="165" r="30" fill="#ED93B1" opacity="0.55">
-    <animate attributeName="cx" values="520;490;520" dur="8s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="165;140;165" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="650" cy="60" r="18" fill="#85B7EB" opacity="0.55">
-    <animate attributeName="cx" values="650;675;650" dur="10s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="60;40;60" dur="10s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="160" r="24" fill="#5DCAA5" opacity="0.55">
-    <animate attributeName="cx" values="700;675;700" dur="6.5s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="160;180;160" dur="6.5s" repeatCount="indefinite"/>
-  </circle>
-
   <rect x="40" y="30" width="680" height="160" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15"/>
 
-  <circle cx="112" cy="90" r="34" fill="#E1F5EE" stroke="#1D9E75" stroke-width="2"/>
-  <text x="112" y="97" font-family="Verdana, sans-serif" font-size="18" font-weight="bold" fill="#085041" text-anchor="middle">HY</text>
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="112" cy="90" r="34"/>
+    </clipPath>
+  </defs>
+  <circle cx="112" cy="90" r="35" fill="#1D9E75"/>
+  <image href="https://github.com/haoyueliew.png" x="78" y="56" width="68" height="68" clip-path="url(#avatarClip)"/>
 
   <text x="168" y="66" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" letter-spacing="1">@haoyueliew</text>
   <text x="168" y="92" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">Hao Yue</text>
