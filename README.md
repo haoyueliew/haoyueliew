@@ -1,13 +1,10 @@
-<table>
-<tr>
-<td width="110">
-  <img src="https://github.com/haoyueliew.png" width="90" height="90" style="border-radius: 50%;" />
-</td>
-<td>
+<p align="center">
+  <img src="https://github.com/haoyueliew.png" width="100" height="100" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="./profile-banner.svg" width="100%" />
-</td>
-</tr>
-</table>
+</p>
 
 <h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
