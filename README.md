@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hao Yue 👋</h1>
+<h3 align="center">Software Engineering Student · Full-Stack Builder</h3>
 
-<!--
-**haoyueliew/haoyueliew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build mobile & web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for fellow students.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,firebase,python,flask,git,github,html,css,js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **[APRide](https://github.com/haoyueliew/APRide-APU-Carpooling-System)** | Full-featured carpooling app for APU students — role-based (admin/driver/passenger/finance), live fare calculation via Google Maps Distance Matrix API, Firebase/Firestore backend | Flutter, Dart, Firebase |
+| **APTime** | Flask-based timetable comparison tool built from a discovered APSpace API endpoint — intake comparison, group filtering, week selection | Python, Flask |
+
+---
+
+### 🌱 Currently
+
+- 🎓 Pursuing BSc (Hons) Software Engineering at APU, Malaysia
+- 💼 Foundations in C++ (DSA, OOP), Flutter/Dart, Firebase, and Python/Flask
+- 🛠️ Always shipping small tools and side projects
+
+---
+
+<p align="center"><i>"Code is my craft. Learning is my process."</i></p>
