@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" />
-
 <h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
 <p align="center">
@@ -45,8 +43,6 @@
   <img src="https://raw.githubusercontent.com/haoyueliew/haoyueliew/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ This one needs a **one-time setup** (see notes below) — it won't appear until then.
-
 ---
 
 ### 🌱 Currently
@@ -60,5 +56,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=haoyueliew&color=3ECF8E&style=flat" />
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
