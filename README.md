@@ -1,6 +1,13 @@
-<p align="center">
+<table>
+<tr>
+<td width="110">
+  <img src="https://github.com/haoyueliew.png" width="90" height="90" style="border-radius: 50%;" />
+</td>
+<td>
   <img src="./profile-banner.svg" width="100%" />
-</p>
+</td>
+</tr>
+</table>
 
 <h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
