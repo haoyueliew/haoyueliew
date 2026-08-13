@@ -1,0 +1,70 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Hao Yue GitHub profile banner</title>
+  <desc>Animated banner with floating balls behind a profile card showing name, role, and tech stack</desc>
+
+  <rect width="760" height="220" rx="16" fill="#0d1117"/>
+
+  <circle cx="90" cy="55" r="34" fill="#5DCAA5" opacity="0.55">
+    <animate attributeName="cx" values="90;115;90" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="55;35;55" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="220" cy="150" r="26" fill="#7F77DD" opacity="0.55">
+    <animate attributeName="cx" values="220;195;220" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="150;175;150" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="45" r="20" fill="#F0997B" opacity="0.55">
+    <animate attributeName="cx" values="360;385;360" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="45;65;45" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="165" r="30" fill="#ED93B1" opacity="0.55">
+    <animate attributeName="cx" values="520;490;520" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="165;140;165" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="60" r="18" fill="#85B7EB" opacity="0.55">
+    <animate attributeName="cx" values="650;675;650" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="60;40;60" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="160" r="24" fill="#5DCAA5" opacity="0.55">
+    <animate attributeName="cx" values="700;675;700" dur="6.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="160;180;160" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="40" y="30" width="680" height="160" rx="14" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15"/>
+
+  <circle cx="112" cy="90" r="34" fill="#E1F5EE" stroke="#1D9E75" stroke-width="2"/>
+  <text x="112" y="97" font-family="Verdana, sans-serif" font-size="18" font-weight="bold" fill="#085041" text-anchor="middle">HY</text>
+
+  <text x="168" y="66" font-family="Verdana, sans-serif" font-size="12" fill="#8b949e" letter-spacing="1">@haoyueliew</text>
+  <text x="168" y="92" font-family="Verdana, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">Hao Yue</text>
+  <text x="168" y="112" font-family="Verdana, sans-serif" font-size="13" fill="#c9d1d9">Software engineering student at APU</text>
+
+  <g font-family="Verdana, sans-serif" font-size="11" fill="#c9d1d9">
+    <rect x="168" y="128" width="52" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="194" y="144" text-anchor="middle">C++</text>
+
+    <rect x="228" y="128" width="66" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="261" y="144" text-anchor="middle">Flutter</text>
+
+    <rect x="302" y="128" width="56" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="330" y="144" text-anchor="middle">Dart</text>
+
+    <rect x="366" y="128" width="66" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="399" y="144" text-anchor="middle">Python</text>
+
+    <rect x="440" y="128" width="60" height="24" rx="12" fill="none" stroke="#30363d"/>
+    <text x="470" y="144" text-anchor="middle">Flask</text>
+  </g>
+
+  <line x1="112" y1="168" x2="668" y2="168" stroke="#30363d" stroke-width="1"/>
+
+  <g font-family="Verdana, sans-serif" text-anchor="middle">
+    <text x="200" y="182" font-size="16" font-weight="bold" fill="#7F77DD">11</text>
+    <text x="200" y="197" font-size="11" fill="#8b949e">Repos</text>
+
+    <text x="380" y="182" font-size="16" font-weight="bold" fill="#5DCAA5">1</text>
+    <text x="380" y="197" font-size="11" fill="#8b949e">Stars</text>
+
+    <text x="560" y="182" font-size="16" font-weight="bold" fill="#85B7EB">—</text>
+    <text x="560" y="197" font-size="11" fill="#8b949e">Followers</text>
+  </g>
+</svg>
