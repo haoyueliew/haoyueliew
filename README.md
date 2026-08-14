@@ -50,6 +50,7 @@
 - 🎓 Pursuing BSc (Hons) Software Engineering at APU, Malaysia
 - 💼 Foundations in C++ (DSA, OOP), Flutter/Dart, Firebase, and Python/Flask
 - 🛠️ Always shipping small tools and side projects
+- Open For Internship
 
 ---
 
