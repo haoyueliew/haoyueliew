@@ -1,19 +1,15 @@
-<p align="center">
-  <img src="./profile-banner.svg" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Builder;Flutter+%2B+Firebase+%2B+Flask;Always+shipping+something+new&font=Fira+Code&center=true&width=500&height=40&color=3ECF8E&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Builder;Flutter+%2B+Firebase;Building+Innovative+Projects&font=Fira+Code&center=true&width=500&height=40&color=3ECF8E&vCenter=true&size=22" />
 </p>
 
 <p align="center">
-  I build mobile & web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for fellow students.
+  I build mobile & web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for users
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,firebase,python,flask,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,dart,firebase,python,flask,java,r,github,html,css,js" />
 </p>
 
 ---
