@@ -32,8 +32,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[APRide](https://github.com/haoyueliew/APRide-APU-Carpooling-System)** | Full-featured carpooling app for APU students — role-based (admin/driver/passenger/finance), live fare calculation via Google Maps Distance Matrix API, Firebase/Firestore backend | Flutter, Dart, Firebase |
-| **APTime** | Flask-based timetable comparison tool built from a discovered APSpace API endpoint — intake comparison, group filtering, week selection | Python, Flask |
-| **Resumatch** | AI-powered resume analysis and job matching web app — parses uploaded resumes, searches jobs across multiple platforms, and generates AI compatibility reports with skill/experience breakdowns | Python, Flask, pdfplumber |
+| **[APTime](https://github.com/haoyueliew/APTime-APU-Timetable-Checker)** | Flask-based timetable comparison tool built from a discovered APSpace API endpoint — intake comparison, group filtering, week selection | Python, Flask |
+| **[Resumatch](https://github.com/haoyueliew/ResuMatch----AI-Marathon-Hackathon)** | AI-powered resume analysis and job matching web app — parses uploaded resumes, searches jobs across multiple platforms, and generates AI compatibility reports with skill/experience breakdowns | Python, Flask, pdfplumber |
 
 ---
 
