@@ -14,19 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haoyueliew&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyueliew&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=haoyueliew&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
