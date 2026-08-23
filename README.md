@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Interested%20in%20AI%20Tools%2C%20Mobile%20Applications%20and%20Web%20App%20Developments;Student%20%40%20APU%2C%20Open%20for%20Internship%20Opportunities" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=775&height=44&lines=Software%20Engineering%20Student%20%26%20Full%20Stack%20Builder;Flutter%20%2B%20Firebase%3B%20Building%20Innovating%20Projects" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-I build mobile &amp; web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for users
+I build mobile &amp; web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for users  
+Interested in AI Tools, Mobile Applications and Web App Developments  
+Student @ APU, Open for Internship Opportunities
 
 ### 🛠️ Tech Stack
 
@@ -46,7 +48,6 @@ I build mobile &amp; web apps end-to-end — from Firebase-backed Flutter apps t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=haoyueliew&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=haoyueliew&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
