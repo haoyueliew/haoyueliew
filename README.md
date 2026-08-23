@@ -1,18 +1,14 @@
-<p align="center">
-  <a href="https://github.com/haoyueliew">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Hao%20Yue" alt="Hello! I&#39;m Hao Yue" />
-  </a>
-</p>
+<h1 align="center">Hi, I'm Hao Yue 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=775&height=44&lines=Software%20Engineering%20Student%20%26%20Full%20Stack%20Builder;Flutter%20%2B%20Firebase%3B%20Building%20Innovating%20Projects" alt="Typing headlines" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Full-Stack+Builder;Flutter+%2B+Firebase;Building+Innovative+Projects&font=Fira+Code&center=true&width=500&height=40&color=3ECF8E&vCenter=true&size=22" />
 </p>
 
 ### 🚀 About Me
 
 I build mobile &amp; web apps end-to-end — from Firebase-backed Flutter apps to Flask tools that solve real problems for users  
-Interested in AI Tools, Mobile Applications and Web App Developments  
-Student @ APU, Open for Internship Opportunities
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -38,18 +34,25 @@ Student @ APU, Open for Internship Opportunities
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🔗 Connect With Me
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/liew-hao-yue-833013278" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:haoyueliew@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **[APRide](https://github.com/haoyueliew/APRide-APU-Carpooling-System)** | Full-featured carpooling app for APU students — role-based (admin/driver/passenger/finance), live fare calculation via Google Maps Distance Matrix API, Firebase/Firestore backend | Flutter, Dart, Firebase |
+| **[APTime](https://github.com/haoyueliew/APTime-APU-Timetable-Checker)** | Flask-based timetable comparison tool built from a discovered APSpace API endpoint — intake comparison, group filtering, week selection | Python, Flask |
+| **[Resumatch](https://github.com/haoyueliew/ResuMatch----AI-Marathon-Hackathon)** | AI-powered resume analysis and job matching web app — parses uploaded resumes, searches jobs across multiple platforms, and generates AI compatibility reports with skill/experience breakdowns | Python, Flask, pdfplumber |
+
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=haoyueliew&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
+---
 
 ### 📈 Contribution Graph
 
@@ -58,4 +61,10 @@ Student @ APU, Open for Internship Opportunities
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/haoyueliew">haoyueliew</a></i></p>
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/liew-hao-yue-833013278" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:haoyueliew@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
